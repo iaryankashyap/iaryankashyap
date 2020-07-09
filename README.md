@@ -23,3 +23,7 @@
 - Twitter: <a href="https://twitter.com/imaryankashyap">@imaryankashyap</a>
 - HackerRank: <a href="https://www.hackerrank.com/iaryankashyap">@iaryankashyap</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/iaryankashyap/">@iaryankashyap</a>
+
+## Stats
+
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=iaryankashyap&show_icons=true)
