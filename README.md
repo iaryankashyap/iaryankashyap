@@ -8,6 +8,11 @@
 - 📫 How to reach me: <a href="mailto:aryank.kashyap77783@gmail.com">aryank.kashyap77783@gmail.com</a>
 - ✨ "I think it is possible for ordinary people to choose to be extraordinary." <br>
 
+## About
+
+- :v: I am a web developer.
+- :raised_hands: I have completed cs50 from Harvard.
+- :eyes: I am google certified in Digital Marketing.
 
 ## Portfolio
 
