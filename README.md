@@ -1,4 +1,4 @@
-[![banner](https://github.com/iaryankashyap/iaryankashyap/raw/master/banner.gif)](https://iaryankashyap.netlify.app/)
+[![banner](https://github.com/iaryankashyap/iaryankashyap/raw/master/banner.png)](https://iaryankashyap.netlify.app/)
 
 ### Hi there 👋
 
