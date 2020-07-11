@@ -1,7 +1,6 @@
-### Hi there 👋
-
 [![banner](https://github.com/iaryankashyap/iaryankashyap/raw/master/banner.gif)](https://iaryankashyap.netlify.app/)
 
+### Hi there 👋
 
 ## Welcome To My GitHub Profile.
 
