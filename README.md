@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on My Portfolio.
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on great ideas.
+- 🔬  I’m looking to collaborate on great ideas.
 - 📫 How to reach me: <a href="mailto:aryank.kashyap77783@gmail.com">aryank.kashyap77783@gmail.com</a>
 - ✨ "I think it is possible for ordinary people to choose to be extraordinary." <br>
 
