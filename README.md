@@ -36,3 +36,4 @@
 ## Stats
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=iaryankashyap&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaryankashyap)](https://github.com/iaryankashyap/)
