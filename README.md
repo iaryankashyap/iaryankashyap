@@ -30,7 +30,7 @@
 
 ## Follow
 
-[![GitHub followers](https://img.shields.io/github/followers/iaryankashyap.svg?style=social&label=@iaryankashyap&maxAge=2592000)](https://github.com/iaryankashyap?tab=followers)<br>
+[![GitHub followers](https://img.shields.io/github/followers/iaryankashyap.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iaryankashyap?tab=followers)<br>
 [![Twitter](https://img.shields.io/twitter/follow/imaryankashyap.svg?style=social&label=@imaryankashyap)](https://twitter.com/imaryankashyap)
 
 ## Stats
