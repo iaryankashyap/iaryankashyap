@@ -22,8 +22,6 @@
 
 ## Profile Links
 
-
-
 - Twitter: <a href="https://twitter.com/imaryankashyap">@imaryankashyap</a>
 - HackerRank: <a href="https://www.hackerrank.com/iaryankashyap">@iaryankashyap</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/iaryankashyap/">@iaryankashyap</a>
