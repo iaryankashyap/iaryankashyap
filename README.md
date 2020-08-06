@@ -18,7 +18,7 @@
 
 ## Portfolio
 
-<a href="https://iaryankashyap.netlify.app/">https://iaryankashyap.netlify.app/</a>
+<a href="https://iaryankashyap.netlify.app/">iaryankashyap.netlify.app/</a>
 
 ## Profile Links
 
