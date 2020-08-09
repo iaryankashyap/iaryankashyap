@@ -10,7 +10,7 @@
 - 📫 How to reach me: <a href="mailto:aryank.kashyap77783@gmail.com">aryank.kashyap77783@gmail.com</a>
 - ✨ "I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk <br>
 
-## About
+## About Me
 
 - :v: I am a web developer.
 - :raised_hands: I have completed cs50 from Harvard University.
