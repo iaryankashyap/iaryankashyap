@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-## Welcome To My GitHub Profile.
+## Welcome To My GitHub Profile
 
 
 - 🌱 I’m currently learning Web Development.
