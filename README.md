@@ -1,6 +1,6 @@
 [![Portfolio](https://github.com/iaryankashyap/iaryankashyap/raw/master/banner.png)](https://iaryankashyap.netlify.app/)
 
-### Hi there! 👋
+### Hi there 👋
 
 ## Welcome To My GitHub Profile!
 
