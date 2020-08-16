@@ -26,7 +26,7 @@
 - HackerRank: <a href="https://www.hackerrank.com/iaryankashyap">@iaryankashyap</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/iaryankashyap/">@iaryankashyap</a>
 
-## Follow
+## Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/iaryankashyap.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iaryankashyap?tab=followers)<br>
 [![Twitter](https://img.shields.io/twitter/follow/imaryankashyap.svg?style=social&label=@imaryankashyap)](https://twitter.com/imaryankashyap)
