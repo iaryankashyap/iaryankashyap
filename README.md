@@ -20,7 +20,7 @@
 
 <a href="https://iaryankashyap.netlify.app/">iaryankashyap.netlify.app/</a>
 
-## Profile Links
+## My Profile Links
 
 - Twitter: <a href="https://twitter.com/imaryankashyap">@imaryankashyap</a>
 - HackerRank: <a href="https://www.hackerrank.com/iaryankashyap">@iaryankashyap</a>
