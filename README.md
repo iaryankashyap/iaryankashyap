@@ -24,6 +24,7 @@
 
 - Python : Gold (5-star)
 - C++ : Gold (5-star)
+- Started C (Current)
 
 ## My Profile Links
 
