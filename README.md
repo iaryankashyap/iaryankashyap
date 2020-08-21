@@ -20,11 +20,7 @@
 
 <a href="https://iaryankashyap.netlify.app/">iaryankashyap.netlify.app/</a>
 
-## HackerRank
-
-- Python : Gold (5-star)
-- C++ : Gold (5-star)
-- Started C (Current)
+## HackerRank Badges
 
 [![HackerRank](https://github.com/iaryankashyap/iaryankashyap/raw/master/hacker.png)](https://www.hackerrank.com/iaryankashyap)
 
