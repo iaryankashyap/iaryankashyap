@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web Development.
 - 🔬  I’m looking to collaborate on great ideas.
-- 📫 How to reach me: <a href="mailto:aryank.kashyap77783@gmail.com">aryank.kashyap77783@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:contact@aryankashyap.tech">contact@aryankashyap.tech</a>
 - ✨ "I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk <br>
 
 ## About Me
@@ -18,7 +18,7 @@
 
 ## Portfolio
 
-<a href="https://iaryankashyap.netlify.app/">iaryankashyap.netlify.app/</a>
+<a href="https://aryankashyap.tech/">aryankashyap.tech/</a>
 
 ## HackerRank Badges
 
