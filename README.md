@@ -13,8 +13,8 @@
 ## About Me
 
 - :v: I am a web developer.
-- :raised_hands: I have completed cs50 from Harvard University.
-- :eyes: I am google certified in Digital Marketing.
+- :raised_hands: I have completed cs50 from Harvard University [edX].
+
 
 ## Portfolio
 
